@@ -1,0 +1,198 @@
+car_ID,CarName,price
+1,alfa-romero giulia,13495
+2,alfa-romero stelvio,16500
+3,alfa-romero Quadrifoglio,16500
+4,audi 100 ls,13950
+5,audi 100ls,17450
+6,audi fox,15250
+7,audi 100ls,17710
+8,audi 5000,18920
+9,audi 4000,23875
+10,audi 5000s (diesel),17859.167
+11,bmw 320i,16430
+12,bmw 320i,16925
+13,bmw x1,20970
+14,bmw x3,21105
+15,bmw z4,24565
+16,bmw x4,30760
+17,bmw x5,41315
+18,bmw x3,36880
+19,chevrolet impala,5151
+20,chevrolet monte carlo,6295
+21,chevrolet vega 2300,6575
+22,dodge rampage,5572
+23,dodge challenger se,6377
+24,dodge d200,7957
+25,dodge monaco (sw),6229
+26,dodge colt hardtop,6692
+27,dodge colt (sw),7609
+28,dodge coronet custom,8558
+29,dodge dart custom,8921
+30,dodge coronet custom (sw),12964
+31,honda civic,6479
+32,honda civic cvcc,6855
+33,honda civic,5399
+34,honda accord cvcc,6529
+35,honda civic cvcc,7129
+36,honda accord lx,7295
+37,honda civic 1500 gl,7295
+38,honda accord,7895
+39,honda civic 1300,9095
+40,honda prelude,8845
+41,honda accord,10295
+42,honda civic,12945
+43,honda civic (auto),10345
+44,isuzu MU-X,6785
+45,isuzu D-Max ,8916.5
+46,isuzu D-Max V-Cross,8916.5
+47,isuzu D-Max ,11048
+48,jaguar xj,32250
+49,jaguar xf,35550
+50,jaguar xk,36000
+51,maxda rx3,5195
+52,maxda glc deluxe,6095
+53,mazda rx2 coupe,6795
+54,mazda rx-4,6695
+55,mazda glc deluxe,7395
+56,mazda 626,10945
+57,mazda glc,11845
+58,mazda rx-7 gs,13645
+59,mazda glc 4,15645
+60,mazda 626,8845
+61,mazda glc custom l,8495
+62,mazda glc custom,10595
+63,mazda rx-4,10245
+64,mazda glc deluxe,10795
+65,mazda 626,11245
+66,mazda glc,18280
+67,mazda rx-7 gs,18344
+68,buick electra 225 custom,25552
+69,buick century luxus (sw),28248
+70,buick century,28176
+71,buick skyhawk,31600
+72,buick opel isuzu deluxe,34184
+73,buick skylark,35056
+74,buick century special,40960
+75,buick regal sport coupe (turbo),45400
+76,mercury cougar,16503
+77,mitsubishi mirage,5389
+78,mitsubishi lancer,6189
+79,mitsubishi outlander,6669
+80,mitsubishi g4,7689
+81,mitsubishi mirage g4,9959
+82,mitsubishi g4,8499
+83,mitsubishi outlander,12629
+84,mitsubishi g4,14869
+85,mitsubishi mirage g4,14489
+86,mitsubishi montero,6989
+87,mitsubishi pajero,8189
+88,mitsubishi outlander,9279
+89,mitsubishi mirage g4,9279
+90,Nissan versa,5499
+91,nissan gt-r,7099
+92,nissan rogue,6649
+93,nissan latio,6849
+94,nissan titan,7349
+95,nissan leaf,7299
+96,nissan juke,7799
+97,nissan latio,7499
+98,nissan note,7999
+99,nissan clipper,8249
+100,nissan rogue,8949
+101,nissan nv200,9549
+102,nissan dayz,13499
+103,nissan fuga,14399
+104,nissan otti,13499
+105,nissan teana,17199
+106,nissan kicks,19699
+107,nissan clipper,18399
+108,peugeot 504,11900
+109,peugeot 304,13200
+110,peugeot 504 (sw),12440
+111,peugeot 504,13860
+112,peugeot 504,15580
+113,peugeot 604sl,16900
+114,peugeot 504,16695
+115,peugeot 505s turbo diesel,17075
+116,peugeot 504,16630
+117,peugeot 504,17950
+118,peugeot 604sl,18150
+119,plymouth fury iii,5572
+120,plymouth cricket,7957
+121,plymouth fury iii,6229
+122,plymouth satellite custom (sw),6692
+123,plymouth fury gran sedan,7609
+124,plymouth valiant,8921
+125,plymouth duster,12764
+126,porsche macan,22018
+127,porcshce panamera,32528
+128,porsche cayenne,34028
+129,porsche boxter,37028
+130,porsche cayenne,31400.5
+131,renault 12tl,9295
+132,renault 5 gtl,9895
+133,saab 99e,11850
+134,saab 99le,12170
+135,saab 99le,15040
+136,saab 99gle,15510
+137,saab 99gle,18150
+138,saab 99e,18620
+139,subaru,5118
+140,subaru dl,7053
+141,subaru dl,7603
+142,subaru,7126
+143,subaru brz,7775
+144,subaru baja,9960
+145,subaru r1,9233
+146,subaru r2,11259
+147,subaru trezia,7463
+148,subaru tribeca,10198
+149,subaru dl,8013
+150,subaru dl,11694
+151,toyota corona mark ii,5348
+152,toyota corona,6338
+153,toyota corolla 1200,6488
+154,toyota corona hardtop,6918
+155,toyota corolla 1600 (sw),7898
+156,toyota carina,8778
+157,toyota mark ii,6938
+158,toyota corolla 1200,7198
+159,toyota corona,7898
+160,toyota corolla,7788
+161,toyota corona,7738
+162,toyota corolla,8358
+163,toyota mark ii,9258
+164,toyota corolla liftback,8058
+165,toyota corona,8238
+166,toyota celica gt liftback,9298
+167,toyota corolla tercel,9538
+168,toyota corona liftback,8449
+169,toyota corolla,9639
+170,toyota starlet,9989
+171,toyota tercel,11199
+172,toyota corolla,11549
+173,toyota cressida,17669
+174,toyota corolla,8948
+175,toyota celica gt,10698
+176,toyota corona,9988
+177,toyota corolla,10898
+178,toyota mark ii,11248
+179,toyota corolla liftback,16558
+180,toyota corona,15998
+181,toyota starlet,15690
+182,toyouta tercel,15750
+183,vokswagen rabbit,7775
+184,volkswagen 1131 deluxe sedan,7975
+185,volkswagen model 111,7995
+186,volkswagen type 3,8195
+187,volkswagen 411 (sw),8495
+188,volkswagen super beetle,9495
+189,volkswagen dasher,9995
+206,audi a4,33000
+207,audi a4 quatro,50000
+208,audi s4 diesel,70000
+209,bmw 4 cabrio,45000
+210,bmw 4 coupe,37000
+211,bmw m4 cabrio,80000
+212,bmw x2,30000
+213,bmw x2 diesel,32000
